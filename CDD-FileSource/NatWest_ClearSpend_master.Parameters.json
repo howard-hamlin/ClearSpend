@@ -1,0 +1,40 @@
+{
+	"parameters": [
+		{
+			"name": "BUSINESS_APPLICATION_NAME",
+			"value": "NatWest ClearSpend"
+		},
+		{
+			"name": "BUSINESS_APPLICATION_VERSION_NAME",
+			"value": "master"
+		},
+		{
+			"name": "APPLICATION1_NAME",
+			"value": "NatWest-Spending-Tracker"
+		},
+		{
+			"name": "APPLICATION1_VERSION_NAME",
+			"value": "master"
+		},
+		{
+			"name": "APPLICATION2_NAME",
+			"value": "NatWest-Savings-Goal-Tool"
+		},
+		{
+			"name": "APPLICATION2_VERSION_NAME",
+			"value": "master"
+		},
+		{
+			"name": "APPLICATION3_NAME",
+			"value": "NatWest-Budget-Management"
+		},
+		{
+			"name": "APPLICATION3_VERSION_NAME",
+			"value": "master"
+		}
+	],
+	"reference": {
+		"fileName": "CDD-FileSource/NatWest_Biometric_Payment_master.json",
+		"fileSource": "NatWest Biometric Payment"
+	}
+}
