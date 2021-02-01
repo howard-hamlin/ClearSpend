@@ -29,7 +29,7 @@ nexusArtifactUploader artifacts: [[artifactId: 'dummy', classifier: '', file: 'b
  }
  post {
   success {
-    sendNotificationToCDDCall projectName: 'NatWest', scope: 'BUSINESS_APPLICATION', businessApplicationName: 'NatWest Biometric Payment'
+    sendNotificationToCDDCall projectName: 'NatWest', scope: 'BUSINESS_APPLICATION', businessApplicationName: 'Biometric Payment'
   }
  }
 }
