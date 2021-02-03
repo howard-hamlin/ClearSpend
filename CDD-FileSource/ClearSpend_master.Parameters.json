@@ -31,6 +31,10 @@
 		{
 			"name": "APPLICATION3_VERSION_NAME",
 			"value": "master"
+		},
+		{
+			"name": "BLAZEMETER_TEST_TAG",
+			"value": "Vodafone_Demo"
 		}
 	],
 	"reference": {
